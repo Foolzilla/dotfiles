@@ -1,0 +1,11 @@
+tint2 &
+
+picom --experimental-backends &
+
+nitrogen --restore &
+
+greenclip daemon &
+
+nm-applet &
+
+pa-applet &
