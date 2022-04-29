@@ -12,4 +12,6 @@ pa-applet &
 
 dunst &
 
-lxsession &
+polkit-dumb-agent &
+
+# polybar &
