@@ -6,7 +6,7 @@ esac
 alias cpugetavail='cat /sys/devices/system/cpu/cpu*/cpufreq/scaling_available_governors'
 alias cpushowcurrent='cat /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor'
 alias cpusethigh='echo performance | sudo tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor'
-alias killpicom='killall picom'
+alias kp='killall picom'
 alias code='codium'
 alias ls='ls --color=auto'
 
@@ -20,3 +20,4 @@ export PATH=$PATH:$ANDROID_HOME/platform-tools
 
 sh $HOME/scripts/ufetch
 alias config='/usr/bin/git --git-dir=/home/mohit/.cfg/ --work-tree=/home/mohit'
+. "$HOME/.cargo/env"

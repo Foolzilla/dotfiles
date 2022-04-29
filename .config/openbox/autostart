@@ -9,3 +9,5 @@ greenclip daemon &
 nm-applet &
 
 pa-applet &
+
+dunst &
