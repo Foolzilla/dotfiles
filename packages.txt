@@ -21,6 +21,7 @@ dhclient
 dialog
 diffutils
 discord
+dmenu
 dmidecode
 dmraid
 dnsmasq
@@ -53,6 +54,7 @@ grep
 groff
 grub
 grub-tools
+grub2-theme-endeavouros
 gst-libav
 gst-plugin-pipewire
 gst-plugins-bad
@@ -99,8 +101,6 @@ make
 man-db
 man-pages
 mdadm
-menumaker
-mesa-utils
 mkinitcpio
 mkinitcpio-busybox
 mkinitcpio-nfs-utils
@@ -122,7 +122,6 @@ nfs-utils
 nilfs-utils
 nitrogen
 nmap
-noto-fonts
 nss-mdns
 ntfs-3g
 ntp
@@ -131,7 +130,6 @@ nvidia-installer-dkms
 obconf
 openbox
 openconnect
-opendesktop-fonts
 openvpn
 os-prober
 pacman
@@ -199,7 +197,6 @@ which
 whois
 wireless-regdb
 wireless_tools
-worm-git
 wpa_supplicant
 xdg-user-dirs
 xdg-user-dirs-gtk
