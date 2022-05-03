@@ -437,7 +437,7 @@
       <action name="Move"/>
     </keybind>
     <!-- Keybindings for windows -->
-    <keybind key="A-F4">
+    <keybind key="W-S-q">
       <action name="Close"/>
     </keybind>
     <keybind key="A-Escape">
@@ -542,17 +542,17 @@
         <command>rofi -modi "clipboard:greenclip print" -show clipboard -run-command '{cmd}'</command>
       </action>
     </keybind>
-    <keybind key="W-C-S-s">
+    <keybind key="W-S-s">
       <action name="Execute">
         <command>android-studio</command>
       </action>
     </keybind>
-    <keybind key="W-S-c">
+    <keybind key="W-S-e">
       <action name="Execute">
         <command>codium</command>
       </action>
     </keybind>
-    <keybind key="W-w">
+    <keybind key="W-S-w">
       <action name="Execute">
         <startupnotify>
           <enabled>true</enabled>
@@ -561,16 +561,16 @@
         <command>firefox</command>
       </action>
     </keybind>
-    <keybind key="W-f">
+    <keybind key="W-S-f">
       <action name="Execute">
         <startupnotify>
           <enabled>true</enabled>
-          <name>Thunar</name>
+          <name>PCmanFM</name>
         </startupnotify>
-        <command>thunar</command>
+        <command>pcmanfm</command>
       </action>
     </keybind>
-    <keybind key="S-W-k">
+    <keybind key="W-S-k">
       <action name="Execute">
         <startupnotify>
           <enabled>true</enabled>
