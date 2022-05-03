@@ -23,7 +23,6 @@ diffutils
 discord
 dmidecode
 dmraid
-dmscripts-git
 dnsmasq
 dosfstools
 downgrade
