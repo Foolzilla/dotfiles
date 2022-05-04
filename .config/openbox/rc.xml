@@ -490,13 +490,20 @@
         <command>kitty</command>
       </action>
     </keybind>
+    <!-- Rofi -->
     <keybind key="W-r">
       <action name="Execute">
-        <startupnotify>
-          <enabled>true</enabled>
-          <name>Rofi</name>
-        </startupnotify>
         <command>rofi -show run</command>
+      </action>
+    </keybind>
+    <keybind key="W-Tab">
+      <action name="Execute">
+        <command>rofi -show window</command>
+      </action>
+    </keybind>
+    <keybind key="W-q">
+      <action name="Execute">
+        <command>rofi -show emoji</command>
       </action>
     </keybind>
     <keybind key="W-S-r">
@@ -568,6 +575,11 @@
           <name>PCmanFM</name>
         </startupnotify>
         <command>pcmanfm</command>
+      </action>
+    </keybind>
+    <keybind key="C-A-q">
+      <action name="Execute">
+        <command>openbox --exit</command>
       </action>
     </keybind>
     <keybind key="W-S-k">
