@@ -1,7 +1,7 @@
 @theme "~/.config/rofi/themes/flaminhot.rasi"
 
 configuration {
-	modi: "window,emoji,run,drun";
+	modi: "window,emoji,run,drun,filebrowser";
 	font: "source code pro 11";
 	location: 0;
 /*	yoffset: 0;*/
@@ -64,7 +64,7 @@ configuration {
 /*	display-ssh: ;*/
 /*	display-combi: ;*/
 /*	display-keys: ;*/
-/*	display-filebrowser: ;*/
+	display-filebrowser: "File";
 /*	kb-primary-paste: "Control+V,Shift+Insert";*/
 /*	kb-secondary-paste: "Control+v,Insert";*/
 /*	kb-clear-line: "Control+w";*/
