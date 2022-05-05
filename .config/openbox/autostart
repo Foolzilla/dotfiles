@@ -8,8 +8,6 @@ greenclip daemon &
 
 nm-applet &
 
-pa-applet &
-
 dunst &
 
 polkit-dumb-agent &
