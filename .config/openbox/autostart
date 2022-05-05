@@ -1,4 +1,4 @@
-tint2 &
+# tint2 &
 
 picom --experimental-backends &
 
@@ -14,4 +14,6 @@ dunst &
 
 polkit-dumb-agent &
 
-# polybar &
+plank -n dock1 &
+
+polybar &

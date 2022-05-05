@@ -1,7 +1,7 @@
 @theme "~/.config/rofi/themes/flaminhot.rasi"
 
 configuration {
-	modi: "window,emoji,run,drun,filebrowser";
+	modi: "window,emoji,run,drun";
 	font: "source code pro 11";
 	location: 0;
 /*	yoffset: 0;*/

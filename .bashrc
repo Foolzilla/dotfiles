@@ -9,8 +9,9 @@ alias cpusethigh='echo performance | sudo tee /sys/devices/system/cpu/cpu*/cpufr
 alias kp='killall picom'
 alias code='codium'
 alias ls='ls --color=auto'
-alias speedup='sh $HOME/scripts/speedup'
+alias sup='sh $HOME/scripts/speedup'
 alias config='/usr/bin/git --git-dir=/home/mohit/.cfg/ --work-tree=/home/mohit'
+alias vim='nvim'
 
 set +o noclobber
 
