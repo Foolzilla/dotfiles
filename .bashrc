@@ -12,6 +12,7 @@ alias ls='ls --color=auto'
 alias sup='sh $HOME/scripts/speedup'
 alias config='/usr/bin/git --git-dir=/home/mohit/.cfg/ --work-tree=/home/mohit'
 alias vim='nvim'
+alias cat='bat'
 
 set +o noclobber
 
@@ -21,6 +22,6 @@ export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/platform-tools
 . "$HOME/.cargo/env"
 
-# shopt -s autocd
-# sh $HOME/scripts/ufetch
+shopt -s autocd
+sh $HOME/scripts/ufetch
 eval "$(starship init bash)"

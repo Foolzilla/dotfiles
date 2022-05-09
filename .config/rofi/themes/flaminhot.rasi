@@ -4,7 +4,7 @@
   background-color: #282a36;
 }
 
-prompt, entry, window { border-radius: 4px; }
+prompt, entry, window { border-radius: 10px; }
 
 window {
     height: 40%;

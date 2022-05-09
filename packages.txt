@@ -5,6 +5,7 @@ adobe-source-han-sans-kr-fonts
 alsa-firmware
 alsa-plugins
 alsa-utils
+android-sdk-cmdline-tools-latest
 android-sdk-platform-tools
 android-studio
 android-udev
@@ -14,6 +15,7 @@ automake
 b43-fwcutter
 base
 bash-completion
+bat
 bind
 binutils
 bison
@@ -116,7 +118,6 @@ make
 man-db
 man-pages
 mdadm
-menumaker
 mesa-utils
 mkinitcpio
 mkinitcpio-busybox
