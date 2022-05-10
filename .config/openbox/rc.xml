@@ -311,19 +311,11 @@
     <!-- Keybindings for important applications -->
     <keybind key="S-Print">
       <action name="Execute">
-        <startupnotify>
-          <enabled>true</enabled>
-          <name>Full ScreenShot</name>
-        </startupnotify>
         <command>scrot -q100 -z -s -e 'xclip -selection clipboard -t image/png -i $f'</command>
       </action>
     </keybind>
     <keybind key="Print">
       <action name="Execute">
-        <startupnotify>
-          <enabled>true</enabled>
-          <name>Full ScreenShot</name>
-        </startupnotify>
         <command>scrot -q100 -d 1 -z</command>
       </action>
     </keybind>
