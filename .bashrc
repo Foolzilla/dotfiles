@@ -21,6 +21,7 @@ export ANDROID_HOME=/opt/android-sdk
 export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/platform-tools
 . "$HOME/.cargo/env"
+export BAT_THEME="Dracula"
 
 shopt -s autocd
 sh $HOME/scripts/ufetch

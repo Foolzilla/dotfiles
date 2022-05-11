@@ -163,7 +163,6 @@ perl
 picom
 pipewire-alsa
 pipewire-jack
-pipewire-media-session
 pipewire-pulse
 pkgconf
 pkgfile
@@ -199,6 +198,7 @@ spotify-adblock
 sshfs
 steam
 sudo
+sxhkd
 sxiv
 sysfsutils
 systemd-sysvcompat
@@ -226,7 +226,9 @@ which
 whois
 wireless-regdb
 wireless_tools
+wireplumber
 wmctrl
+worm-git
 wpa_supplicant
 xdg-user-dirs
 xdg-user-dirs-gtk
