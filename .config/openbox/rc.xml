@@ -107,6 +107,11 @@
       <!-- 'italic' or 'normal' -->
     </font>
   </theme>
+  <applications>
+    <application name="kitty">
+      <decor>no</decor>
+    </application>
+  </applications>
   <desktops>
     <!-- this stuff is only used at startup, pagers allow you to change them
        during a session
