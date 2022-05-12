@@ -16,7 +16,7 @@ alias cat='bat'
 
 set +o noclobber
 
-# export PS1="\[\e[1;31m\]\w\[\e[m\]\[\e[1;32m\] ⇨ \[\e[m\] "
+export PS1="\[\e[1;31m\]\w\[\e[m\]\[\e[1;32m\] ⇨ \[\e[m\] "
 export ANDROID_HOME=/opt/android-sdk
 export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/platform-tools
@@ -25,4 +25,4 @@ export BAT_THEME="Dracula"
 
 shopt -s autocd
 sh $HOME/scripts/ufetch
-eval "$(starship init bash)"
+# eval "$(starship init bash)"
