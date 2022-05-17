@@ -4,7 +4,7 @@
   enable_image_support = true
   history_file = "/home/mohit/.cache/greenclip.history"
   image_cache_directory = "/tmp/greenclip"
-  max_history_length = 50
+  max_history_length = 500
   max_selection_size_bytes = 0
   static_history = ["github.com/Iamlooker"]
   trim_space_from_selection = true

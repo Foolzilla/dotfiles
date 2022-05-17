@@ -5,7 +5,6 @@ adobe-source-han-sans-kr-fonts
 alsa-firmware
 alsa-plugins
 alsa-utils
-android-sdk-cmdline-tools-latest
 android-sdk-platform-tools
 android-studio
 android-udev
@@ -198,7 +197,6 @@ spotify-adblock
 sshfs
 steam
 sudo
-sxhkd
 sxiv
 sysfsutils
 systemd-sysvcompat
@@ -228,7 +226,6 @@ wireless-regdb
 wireless_tools
 wireplumber
 wmctrl
-worm-git
 wpa_supplicant
 xdg-user-dirs
 xdg-user-dirs-gtk
