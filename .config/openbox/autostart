@@ -1,5 +1,7 @@
 # tint2 &
 
+xset r rate 400 50
+
 picom --experimental-backends &
 
 nitrogen --restore &
