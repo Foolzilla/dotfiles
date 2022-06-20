@@ -5,6 +5,7 @@ adobe-source-han-sans-kr-fonts
 alsa-firmware
 alsa-plugins
 alsa-utils
+android-sdk-cmdline-tools-latest
 android-sdk-platform-tools
 android-studio
 android-udev
@@ -18,6 +19,7 @@ bat
 bind
 binutils
 bison
+blackbox
 btrfs-progs
 cantarell-fonts
 capitaine-cursors
@@ -86,11 +88,11 @@ hwdetect
 hwinfo
 inetutils
 intel-ucode
-intellij-idea-community-edition
 inxi
 ipw2100-fw
 ipw2200-fw
 iwd
+jdk17-openjdk
 jfsutils
 kitty
 less
@@ -101,7 +103,6 @@ libopenraw
 libreoffice-fresh
 libtool
 libwnck3
-lightdm
 lightdm-slick-greeter
 linux-atm
 linux-firmware
@@ -118,6 +119,7 @@ man-db
 man-pages
 mdadm
 mesa-utils
+micro
 mkinitcpio
 mkinitcpio-busybox
 mkinitcpio-nfs-utils
@@ -146,6 +148,7 @@ ntfs-3g
 ntp
 nvidia-dkms
 nvidia-installer-dkms
+nvidia-settings
 obconf
 openbox
 openconnect
@@ -154,7 +157,6 @@ openvpn
 os-prober
 pacman
 pacman-contrib
-paru
 patch
 pavucontrol
 pcmanfm-gtk3
@@ -193,10 +195,12 @@ sg3_utils
 slop
 smartmontools
 sof-firmware
+spotify
 spotify-adblock
 sshfs
 steam
 sudo
+sxhkd
 sxiv
 sysfsutils
 systemd-sysvcompat
@@ -273,3 +277,5 @@ xorg-xwd
 xorg-xwininfo
 xorg-xwud
 yad-eos
+yay
+zathura-pdf-mupdf

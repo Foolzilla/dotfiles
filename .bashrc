@@ -22,7 +22,9 @@ export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/platform-tools
 . "$HOME/.cargo/env"
 export BAT_THEME="Dracula"
+export MICRO_TRUECOLOR=1
 
 shopt -s autocd
 sh $HOME/scripts/ufetch
 # eval "$(starship init bash)"
+export GPG_TTY=$(tty)
