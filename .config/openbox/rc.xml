@@ -111,6 +111,9 @@
     <application name="kitty">
       <decor>no</decor>
     </application>
+    <application name="zathura">
+      <decor>no</decor>
+    </application>
   </applications>
   <desktops>
     <!-- this stuff is only used at startup, pagers allow you to change them

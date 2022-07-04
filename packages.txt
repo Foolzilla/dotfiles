@@ -5,7 +5,6 @@ adobe-source-han-sans-kr-fonts
 alsa-firmware
 alsa-plugins
 alsa-utils
-android-sdk-cmdline-tools-latest
 android-sdk-platform-tools
 android-studio
 android-udev
@@ -20,6 +19,8 @@ bind
 binutils
 bison
 blackbox
+blueman
+bluez-utils
 btrfs-progs
 cantarell-fonts
 capitaine-cursors
@@ -88,11 +89,11 @@ hwdetect
 hwinfo
 inetutils
 intel-ucode
+intel-undervolt
 inxi
 ipw2100-fw
 ipw2200-fw
 iwd
-jdk17-openjdk
 jfsutils
 kitty
 less
