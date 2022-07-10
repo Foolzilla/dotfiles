@@ -8,7 +8,10 @@ alsa-utils
 android-sdk-platform-tools
 android-studio
 android-udev
+ant
 arc-gtk-theme-eos
+arduino-builder
+arduino-ctags
 autoconf
 automake
 b43-fwcutter
@@ -24,6 +27,7 @@ bluez-utils
 btrfs-progs
 cantarell-fonts
 capitaine-cursors
+code
 cryptsetup
 device-mapper
 dhclient
@@ -65,6 +69,7 @@ gettext
 git
 glances
 gnu-netcat
+go
 google-chrome
 grep
 groff
@@ -94,7 +99,12 @@ inxi
 ipw2100-fw
 ipw2200-fw
 iwd
+java-environment-common
+java-runtime-common
+jdk8-openjdk
 jfsutils
+jre8-openjdk
+jre8-openjdk-headless
 kitty
 less
 lib32-vulkan-intel
@@ -223,7 +233,6 @@ upower
 usb_modeswitch
 usbutils
 vpnc
-vscodium
 wget
 which
 whois
