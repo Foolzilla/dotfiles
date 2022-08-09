@@ -12,7 +12,6 @@ alias ls='ls --color=auto'
 alias sup='sh $HOME/scripts/speedup'
 alias config='/usr/bin/git --git-dir=/home/mohit/.cfg/ --work-tree=/home/mohit'
 alias vim='nvim'
-alias cat='bat'
 
 set +o noclobber
 
